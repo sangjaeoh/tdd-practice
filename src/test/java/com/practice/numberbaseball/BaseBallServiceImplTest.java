@@ -25,7 +25,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 class BaseBallServiceImplTest {
 
     @Autowired
-    BaseBallService baseBallService;
+    BaseBallServiceImpl baseBallService;
 
     @Test
     @DisplayName("숫자야구 게임 플레이볼")

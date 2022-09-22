@@ -43,7 +43,6 @@ class BaseBallControllerTest {
 
         //andExpect
         mockMvc.perform(get("/api/v1/baseball/play")
-                        .contentType(MediaType.TEXT_PLAIN)
                         .param("input",
                                 "4\n" +
                                 "123 1 1\n" +

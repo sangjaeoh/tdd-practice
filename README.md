@@ -4,13 +4,17 @@
 ## 목차
 [숫자 야구](#숫자-야구)  
 [자동차 경주 게임](#자동차-경주-게임)
+
 ---
+
 ## 숫자 야구
 브루트포스 유형  
 [문제 링크](https://www.acmicpc.net/problem/2503)  
 [소스 바로가기](https://github.com/sangjaeoh/tdd-practice/tree/main/src/main/java/com/practice/numberbaseball)  
 [테스트 소스 바로가기](https://github.com/sangjaeoh/tdd-practice/tree/main/src/test/java/com/practice/numberbaseball)
+
 ---
+
 ## 자동차 경주 게임
 구현 유형  
 [문제 링크](https://cotak.tistory.com/171)

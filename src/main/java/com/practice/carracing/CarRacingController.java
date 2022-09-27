@@ -28,8 +28,8 @@ public class CarRacingController {
     }
 
     private List<String> inputNames(){
-        System.out.println("경주할 자동차 이름을 입력하세요.(이름은 쉼표(,) 기준으로 구분");
-        String input = scanner.nextLine();
+        System.out.println("경주할 자동차 이름을 입력하세요.(이름은 쉼표(,) 기준으로 구분)");
+        String input = this.scanner.nextLine();
         List<String> names = Arrays.stream(input.split(",")).map(String::strip).collect(Collectors.toList());
         return names;
     }

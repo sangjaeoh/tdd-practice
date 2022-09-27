@@ -7,8 +7,6 @@ public class Main {
     public static void maim(String[] args) {
         final Scanner scanner = new Scanner(System.in);
 
-
-
     }
 
 }
